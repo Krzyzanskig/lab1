@@ -6,6 +6,7 @@ public class main {
 		System.out.println(System.getProperty("java.version"));
 		System.out.println(System.getProperty("java.runtime.version"));
 		System.out.println(System.getProperty("sun.java.command"));
+	
 	}
 
 }
